@@ -1,0 +1,5 @@
+<?php
+
+$connection="$_INDEX($connection)"
+
+?>

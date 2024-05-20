@@ -1,0 +1,21 @@
+<?data
+<!DOCTYPE data>
+
+//"Recomended not to mod this file! -RubRub"//
+
+$playerName="electroplayer12"
+$playerVerified=true
+
+$connection=="gdpswheatneo"
+$_CHECK($connection)
+
+$stars($_CHECK)
+$moons($_CHECK)
+$secretcoins($_CHECK)
+$usercoins($_CHECK)
+$friendData($_CHECK)
+$diamonds($_CHECK)
+$blockData($_CHECK)
+</data>
+
+?>
